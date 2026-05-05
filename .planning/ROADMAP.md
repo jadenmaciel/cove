@@ -5,7 +5,7 @@
 ## Phase Overview
 
 | # | Phase | Goal | Requirements | Success Criteria |
-|---|-------|------|--------------|------------------|
+|---|-------|------|--------------|-----------------|
 | 1 | Permanent Workspaces | Save/restore named workspaces across sessions | WS-01, WS-02, WS-03 | 3 |
 | 2 | Tab Management | Harder to close accidentally, better nav | TAB-01, TAB-02, TAB-03 | 3 |
 | 3 | Split UX | Easier splits, better shortcuts, persistence | SPLIT-01, SPLIT-02, SPLIT-03 | 3 |
@@ -15,7 +15,7 @@
 
 ### Phase 1: Permanent Workspaces
 
-**Goal:** Workspaces persist across sessions with names and fast switching.
+**Goal:** Save/restore named workspaces across sessions with fast switching.
 
 **Requirements:**
 - WS-01: Permanent workspaces — save/restore named project workspaces across sessions
@@ -24,8 +24,15 @@
 
 **Success Criteria:**
 1. User can name and save a workspace and it persists after app restart
-2. User can switch between workspaces using keyboard (Cmd+1-9)
-3. Sidebar shows workspace names clearly
+2. User can switch between workspaces using keyboard (Ctrl+Tab, Cmd+1-9)
+3. Sidebar shows workspace names clearly with bold active indicator
+
+**Plans:** 3 plans
+
+Plans:
+- [ ] 01-01-PLAN.md — Core save/restore: PermanentWorkspaceRecord creation and layout snapshot capture/restore
+- [ ] 01-02-PLAN.md — Fast switching: Ctrl+Tab cycling, Cmd+1-9, sidebar click, bold active indicator
+- [ ] 01-03-PLAN.md — Naming and deletion: inline rename, archive+kill delete
 
 ---
 
