@@ -12,7 +12,7 @@ See: .planning/PROJECT.md (updated 2026-05-06 after initialization)
 
 | Phase | Name | Status |
 |-------|------|--------|
-| 1 | Permanent Workspaces | Not started |
+| 1 | Permanent Workspaces | Context gathered |
 | 2 | Tab Management | Not started |
 | 3 | Split UX | Not started |
 | 4 | Liquid Glass UI | Not started |
