@@ -1,0 +1,10 @@
+[submodule "ghostty"]
+	path = ghostty
+	url = https://github.com/manaflow-ai/ghostty.git
+	branch = main
+[submodule "homebrew-cove"]
+	path = homebrew-cove
+	url = https://github.com/manaflow-ai/homebrew-cove.git
+[submodule "vendor/bonsplit"]
+	path = vendor/bonsplit
+	url = https://github.com/jadenmaciel/bonsplit.git
