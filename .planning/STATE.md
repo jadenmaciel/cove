@@ -1,3 +1,5 @@
+
+
 # State: Cove
 
 ## Project Reference
@@ -6,7 +8,7 @@ See: .planning/PROJECT.md (updated 2026-05-06 after initialization)
 
 **Core value:** A local-first macOS workspace where multiple terminal workspaces with tabs and splits feel instant, organized, and beautiful — with Apple Liquid Glass aesthetics.
 
-**Current phase:** Not started
+**Current phase:** 3
 
 ## Phase Status
 
